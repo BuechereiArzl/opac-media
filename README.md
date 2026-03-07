@@ -1,2 +1,2 @@
 # opac-media
-Bilder und PDFs zum Anzeichen in Biblioweb
+Bilder und PDFs zum Anzeigen in Biblioweb
